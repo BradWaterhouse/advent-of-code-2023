@@ -1,29 +1,28 @@
 {
-  "name": ":username/:package_name",
-  "description": ":package_description",
+  "description": "Advent of code 2023!",
   "keywords": [
-    ":username",
-    ":package_name"
+    "brad-waterhouse",
+    "AoC-2023"
   ],
   "license": "MIT",
   "type": "library",
   "authors": [
     {
-      "name": ":author_name",
-      "email": ":author_email",
-      "homepage": ":author_website",
+      "name": "brad-waterhouse",
+      "email": "brad.waterhouse97@gmail.com",
+      "homepage": "https://github.com/brad-waterhouse",
       "role": "Developer"
     }
   ],
-  "homepage": "https://github.com/:username/:package_name",
+  "homepage": "https://github.com/brad-waterhouse/AoC-2023",
   "autoload": {
     "psr-4": {
-      ":namespace\\": "src/:namespace/"
+      "AoC\\": "src/AoC/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Tests\\:namespace\\": "tests/:namespace/"
+      "Tests\\AoC\\": "tests/AoC/"
     }
   },
   "require": {

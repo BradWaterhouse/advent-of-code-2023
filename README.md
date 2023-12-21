@@ -1,16 +1,6 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
 
-**This is a template. To use it, clone this repository or select "Use this template" from [github.com/elliotjreed/php-package-template](https://github.com/elliotjreed/php-package-template) and run:**
-
-```bash
-bash ./setup.sh
-```
-
-![Gif image demonstration of the setup process](demo.gif "Demonstration of the setup process")
-
-**The following instructions and information are related to the project after the [setup](setup.sh) script has been run (they will throw errors if run before the [setup](setup.sh) has been run).**
-
-# :package_name
+# AoC-2023
 
 ## Getting Started
 
